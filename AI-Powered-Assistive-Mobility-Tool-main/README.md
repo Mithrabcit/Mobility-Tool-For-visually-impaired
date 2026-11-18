@@ -50,39 +50,6 @@ The system integrates advanced computer vision and deep learning models such as 
 
 ---
 
-## 🚀 Installation & Setup
-
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/SumitKasaudhan/AI-Powered-Assistive-Mobility-Tool.git
-cd visionmate
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run Application
-
-```bash
-streamlit run app.py
-```
-
-### 4️⃣ Access App
-
-```
-http://localhost:8501
-```
-
-## 📜 License
-
-MIT License
-
----
-
 ## ⭐ Final Impression
 
 VisionMate showcases the ability to **design, build, and deploy an industry-relevant AI system**, making it a strong demonstration of skills in **AI engineering, full-stack development, and problem-solving**.
